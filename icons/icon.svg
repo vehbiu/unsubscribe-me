@@ -1,0 +1,12 @@
+<!-- Created by Claude! -->
+<!-- Used this SVG, converted in the browser via github.com/vehbiu/imagex -->
+<!-- https://imagex.vehbi.me/ -->
+
+<svg viewBox="0 0 128 128" xmlns="http://www.w3.org/2000/svg">
+  <!-- YouTube-style play button background -->
+  <rect x="8" y="8" width="112" height="112" rx="24" fill="#FF0000"/>
+  
+  <!-- Unsubscribe symbol (minus sign in a circle) -->
+  <circle cx="64" cy="64" r="40" fill="white"/>
+  <rect x="36" y="60" width="56" height="8" rx="4" fill="#FF0000"/>
+</svg>

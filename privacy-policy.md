@@ -1,0 +1,1 @@
+Nothing is collected, we will not sell your informtion to third parties. 

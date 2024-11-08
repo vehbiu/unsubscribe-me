@@ -295,8 +295,7 @@ class ChannelController {
       }
 
       const rateLink = document.createElement('a');
-      /* TODO: Implement once approved on Chrome Web Store */
-      rateLink.href = 'https://chrome.google.com/webstore/';
+      rateLink.href = 'https://chromewebstore.google.com/detail/unsubscribe-me-youtube-un/cglepbjiegpceidnaghpbnealkbpefja';
       rateLink.textContent = 'Rate this extension';
       rateLink.style.cssText = `
         display: block;

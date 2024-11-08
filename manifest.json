@@ -2,7 +2,7 @@
   "manifest_version": 3,
   "name": "Unsubscribe Me! - YouTube Unsubscribe All",
   "description": "Easily unsubscribe from all your subscribed to YouTube channels at once",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "permissions": [
     "activeTab",
     "scripting",
